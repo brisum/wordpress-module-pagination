@@ -1,0 +1,22 @@
+{
+  "name": "brisum/wordpress-module-pagination",
+  "description": "Wordpress module pagination",
+  "keywords": [
+    "wordpress",
+    "pagination"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-module-pagination",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\Pagination\\": "src/"
+    }
+  }
+}
